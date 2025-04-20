@@ -7,5 +7,6 @@ streamlit_model/
 .github/
 submissions/
 *.csv
-*.txt
+main-console-output.txt
+infer-main-console.txt
 paper.md
