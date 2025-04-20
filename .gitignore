@@ -1,0 +1,11 @@
+__pycache__/
+test_data_v2/
+train_data/
+logs/
+streamlit_model/
+.model_cache/
+.github/
+submissions/
+*.csv
+*.txt
+paper.md
